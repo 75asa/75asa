@@ -4,14 +4,13 @@
 
 ![](https://komarev.com/ghpvc/?username=75asa&color=blueviolet)
 
-[![](https://raw.githubusercontent.com/75asa/75asa/master/profile-summary-card-output/dracula/1-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/75asa/75asa/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/75asa/75asa/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/75asa/75asa/master/profile-summary-card-output/dracula/1-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/75asa/75asa/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
-[![](https://raw.githubusercontent.com/75asa/75asa/master/profile-summary-card-output/dracula/1-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/75asa/75asa/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
