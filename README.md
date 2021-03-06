@@ -40,5 +40,12 @@
 # 🏅 Certified
 
 ## Salesforce
-- Salesforce Certified Administrator
-- Salesforce B2C Commerce Developer
+[trailblazer.me: is-75asa](https://trailblazer.me/id/is-75asa)
+
+### Salesforce Certified Administrator
+
+[![](https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/administrator.png)]()
+
+### Salesforce B2C Commerce Developer
+
+[![](https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/commerce_cloud_digital_developer.png)]()
