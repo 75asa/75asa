@@ -36,3 +36,9 @@
 # 🕴🏾 Using at work
 - [B2C Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/ecommerce/)
 - [APEX](https://developer.salesforce.com/docs/atlas.apexcode.meta/apexcode/apex_intro_what_is_apex.htm)
+
+# 🏅 Certified
+
+## Salesforce
+- Salesforce Certified Administrator
+- Salesforce B2C Commerce Developer
