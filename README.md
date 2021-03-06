@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=75asa&color=blueviolet" alt="syui" />
   </a>
   <a href="http://twitter.com/75asa_ja">
-    <img height="20" src="https://img.shields.io/twitter/follow/75asa_dev?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/75asa_ja?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/75asa">
     <img height="20" src="https://img.shields.io/github/followers/75asa?label=follow&logo=github&style=flat" />
