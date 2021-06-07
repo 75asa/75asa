@@ -44,8 +44,8 @@
 
 ### Salesforce Certified Administrator
 
-<img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/administrator.png" width="400px">
+<img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/SF-Certified_Administrator.png" width="400px">
 
 ### Salesforce B2C Commerce Developer
 
-<img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/commerce_cloud_digital_developer.png" width="400px">
+<img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/SF-Certified_B2C-Commerce-Developer.png" width="400px">
