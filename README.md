@@ -40,12 +40,9 @@
 # 🏅 Certified
 
 ## Salesforce
-[trailblazer.me: is-75asa](https://trailblazer.me/id/is-75asa)
 
-### Salesforce Certified Administrator
+<img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/SF-Certified_Administrator.png" height="100" alt="Salesforce Certified Administrator">
 
-<img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/SF-Certified_Administrator.png" width="400px">
+<img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/SF-Certified_B2C-Commerce-Developer.png" height="100" alt="Salesforce B2C Commerce Developer">
 
-### Salesforce B2C Commerce Developer
-
-<img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/SF-Certified_B2C-Commerce-Developer.png" width="400px">
+### FYI: [trailblazer.me: is-75asa](https://trailblazer.me/id/is-75asa)
