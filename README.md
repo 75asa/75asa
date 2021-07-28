@@ -13,7 +13,7 @@
     <img height="20" src="https://img.shields.io/github/followers/75asa?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/75asa">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/75asa/contributions.svg" />
+    <img height="j20" src="https://qiita-badge.apiapi.app/s/75asa/contributions.svg" />
   </a>
 </p>
 
@@ -42,7 +42,6 @@
 ## Salesforce
 
 <img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/SF-Certified_Administrator.png" height="100" alt="Salesforce Certified Administrator">
+ <img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/SF-Certified_B2C-Commerce-Developer.png" height="100" alt="Salesforce B2C Commerce Developer">
 
-<img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/SF-Certified_B2C-Commerce-Developer.png" height="100" alt="Salesforce B2C Commerce Developer">
-
-### FYI: [trailblazer.me: is-75asa](https://trailblazer.me/id/is-75asa)
+### FYI => [trailblazer.me: is-75asa](https://trailblazer.me/id/is-75asa)
