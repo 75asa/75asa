@@ -57,6 +57,7 @@
 - [APEX](https://developer.salesforce.com/docs/atlas.apexcode.meta/apexcode/apex_intro_what_is_apex.htm)
 
 <code><img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/SF-Certified_Administrator.png" height="100" alt="Salesforce Certified Administrator"></code>
-<code><img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/SF-Certified_B2C-Commerce-Developer.png" height="100" alt="Salesforce B2C Commerce Developer"></code>
+<code><img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/SF-Certified_B2C-Commerce-Developer.png" height="100" alt="Salesforce Certified B2C Commerce Developer"></code>
+<code><img src="https://raw.githubusercontent.com/75asa/75asa/master/images/salesforce/SF-Certified_JavaScript-Developer-I.png" height="100" alt="Salesforce Certified JavaScript Developer"></code>
 
 ### FYI => [trailblazer.me: is-75asa](https://trailblazer.me/id/is-75asa)
