@@ -15,6 +15,15 @@
   <a href="http://qiita.com/75asa">
     <img height="j20" src="https://qiita-badge.apiapi.app/s/75asa/contributions.svg" />
   </a>
+  <!-- Zenn -->
+  <!-- Like のバッジ -->
+  <a href="https://zenn.dev/75asa">
+    <img src="https://zenn.badge.nikaera.com/s/75asa/likes?style=for-the-badge" alt="75asa likes" />
+  </a>
+  <!-- Articles のバッジ -->
+  <a href="https://zenn.dev/75asa/articles">
+    <img src="https://zenn.badge.nikaera.com/s/75asa/articles?style=for-the-badge" alt="75asa articles" />
+  </a>
 </p>
 
 ## 📊 Details & 🌟 Stars
@@ -30,6 +39,7 @@
 ---
 
 # ⌨️ Things I code with
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
@@ -51,6 +61,7 @@
 # 🏅 Certified
 
 ## Salesforce
+
 ### 🕴🏾 Using at work
 
 - [B2C Commerce Cloud](https://www.salesforce.com/products/commerce-cloud/ecommerce/)
