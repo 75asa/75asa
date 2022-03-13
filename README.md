@@ -29,6 +29,13 @@
 
 ---
 
+## :star: Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=75asa/time-liner,75asa/fondeSlack,75asa/notion-database-crawler,75asa/kibela-to-notion,tam-bourine/Nextion,trackrecords/slack-notion-unfurl-app&type=Date)](https://star-history.com/#75asa/time-liner&75asa/fondeSlack&75asa/notion-database-crawler&75asa/kibela-to-notion&tam-bourine/Nextion&trackrecords/slack-notion-unfurl-app&Date)
+
+
+---
+
 # ⌨️ Things I code with
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
