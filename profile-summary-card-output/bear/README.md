@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/75asa/75asa/master/profile-summary-card-output/bear/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/75asa/75asa/master/profile-summary-card-output/bear/4-productive-time.svg)
-```
-
-    

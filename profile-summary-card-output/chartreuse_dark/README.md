@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/75asa/75asa/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/75asa/75asa/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)
-```
-
-    
